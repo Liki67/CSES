@@ -14,6 +14,7 @@ int main() {
         cin >> edges[i][0]>> edges[i][1]>>edges[i][2];
 
     vector<vector<pair<int,int>>>adj(n+1);
+
     
 
 
